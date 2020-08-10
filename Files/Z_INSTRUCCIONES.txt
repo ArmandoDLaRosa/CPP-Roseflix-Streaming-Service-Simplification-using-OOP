@@ -1,0 +1,29 @@
+Se quiere trabajar con dos tipos de videos: películas y episodios.
+
+Todo video tiene un ID, un nombre, una duración, un género (drama, acción, misterio y comedia) y calificación (1 a 5 donde 5 es la mejor calificación).
+
+Además se tienen series las cuales contienen temporadas con episodios, cada serie tiene un título.
+
+Identificar los objetos involucrados y definir para cada uno de ellos sus características y comportamientos.
+
+Diseñar un modelo de clases que dé solución a la situación problema. Verificar que el modelo emplee los mecanismos de Herencia y Polimorfismo.
+
+Elaborar el Diagrama UML que represente el diseño de la solución.
+
+Construir diseño de clases propuesto en el lenguaje de programación. Asegurar que el sistema de clases construido funciona correctamente haciendo un programa de aplicación para ese fin.
+
+Diseñar y elaborar una aplicación que emplee el sistema de clases construido para dar solución a la situación problema.
+
+Cargar archivo de datos
+
+La aplicación debe mostrar el siguiente menú ciclado:
+
+1. Mostrar la lista de películas
+2. Mostrar la lista de series
+3. Mostrar los videos en general con una cierta calificación
+4. Mostrar los videos en general de un cierto género
+5. Mostrar los episodios de una determinada serie con sus calificaciones
+6. Mostrar las películas con cierta calificación
+0. Salir
+
+El sistema debe validar todas las entradas dadas por el usuario.
