@@ -1,6 +1,6 @@
 # CPP Roseflix Streaming Service Simplification Using OOP
 Streaming Service Simplification to apply:
-  - OOP concepts
+  - OOP concepts and design.
   - Pointers 
   - File reading.
 
